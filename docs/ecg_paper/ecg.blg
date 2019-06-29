@@ -1,0 +1,170 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: ecg.aux
+The style file: apsrev4-2.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: ecgNotes.bib
+Database file #2: bib_ecg.bib
+I was expecting a `,' or a `}'---line 61 of file bib_ecg.bib
+ :  
+ :  howpublished = "github repository \url{https://github.com/c-labpl/qrs_detector}"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+control{REVTEX42Control}, control.key{N/A}, control.author{N/A}, control.editor{N/A}, control.title{N/A}, control.pages{N/A}, control.year{N/A}, control.eprint{N/A}, 
+control{apsrev42Control}, control.key{N/A}, control.author{08}, control.editor{1}, control.title{0}, control.pages{0}, control.year{1}, control.eprint{N/A}, 
+Warning--jnrlst (dependency: not reversed) set 1
+Too many commas in name 1 of "Laila Staerk, Jason A. Sherer, Darae Ko, Emelia J. Benjamin and Robert H. Helm" for entry Staerk
+while executing---line 3310 of file apsrev4-2.bst
+Too many commas in name 1 of "Daniela Husser, David S. Cannom, Anil K. Bhandari, Martin Stridh, Leif Sörnmo, S. Bertil Olsson, Andreas Bollmann" for entry Husser
+while executing---line 3310 of file apsrev4-2.bst
+Too many commas in name 1 of "Daniela Husser, David S. Cannom, Anil K. Bhandari, Martin Stridh, Leif Sörnmo, S. Bertil Olsson, Andreas Bollmann" for entry Husser
+while executing---line 3310 of file apsrev4-2.bst
+Too many commas in name 1 of "Daniela Husser, David S. Cannom, Anil K. Bhandari, Martin Stridh, Leif Sörnmo, S. Bertil Olsson, Andreas Bollmann" for entry Husser
+while executing---line 3310 of file apsrev4-2.bst
+Too many commas in name 1 of "Daniela Husser, David S. Cannom, Anil K. Bhandari, Martin Stridh, Leif Sörnmo, S. Bertil Olsson, Andreas Bollmann" for entry Husser
+while executing---line 3310 of file apsrev4-2.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+apsrev4-2.bst 2019-01-14 (MD) hand-edited version of apsrev4-1.bst
+Control: key (0) 
+Control: author (8) initials jnrlst
+Control: editor formatted (1) identically to author
+Control: production of article title (0) allowed
+Control: page (0) single
+Control: year (1) truncated
+Control: production of eprint (0) enabled
+Warning--empty year in litfl
+Too many commas in name 1 of "Laila Staerk, Jason A. Sherer, Darae Ko, Emelia J. Benjamin and Robert H. Helm" for entry Staerk
+while executing---line 3516 of file apsrev4-2.bst
+Too many commas in name 1 of "Laila Staerk, Jason A. Sherer, Darae Ko, Emelia J. Benjamin and Robert H. Helm" for entry Staerk
+while executing---line 3516 of file apsrev4-2.bst
+Too many commas in name 1 of "Laila Staerk, Jason A. Sherer, Darae Ko, Emelia J. Benjamin and Robert H. Helm" for entry Staerk
+while executing---line 3516 of file apsrev4-2.bst
+Too many commas in name 1 of "Laila Staerk, Jason A. Sherer, Darae Ko, Emelia J. Benjamin and Robert H. Helm" for entry Staerk
+while executing---line 3516 of file apsrev4-2.bst
+Too many commas in name 1 of "Daniela Husser, David S. Cannom, Anil K. Bhandari, Martin Stridh, Leif Sörnmo, S. Bertil Olsson, Andreas Bollmann" for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+Too many commas in name 1 of "Daniela Husser, David S. Cannom, Anil K. Bhandari, Martin Stridh, Leif Sörnmo, S. Bertil Olsson, Andreas Bollmann" for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+Too many commas in name 1 of "Daniela Husser, David S. Cannom, Anil K. Bhandari, Martin Stridh, Leif Sörnmo, S. Bertil Olsson, Andreas Bollmann" for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+Too many commas in name 1 of "Daniela Husser, David S. Cannom, Anil K. Bhandari, Martin Stridh, Leif Sörnmo, S. Bertil Olsson, Andreas Bollmann" for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+Too many commas in name 1 of "Daniela Husser, David S. Cannom, Anil K. Bhandari, Martin Stridh, Leif Sörnmo, S. Bertil Olsson, Andreas Bollmann" for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+Too many commas in name 1 of "Daniela Husser, David S. Cannom, Anil K. Bhandari, Martin Stridh, Leif Sörnmo, S. Bertil Olsson, Andreas Bollmann" for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+Too many commas in name 1 of "Daniela Husser, David S. Cannom, Anil K. Bhandari, Martin Stridh, Leif Sörnmo, S. Bertil Olsson, Andreas Bollmann" for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+Too many commas in name 1 of "Daniela Husser, David S. Cannom, Anil K. Bhandari, Martin Stridh, Leif Sörnmo, S. Bertil Olsson, Andreas Bollmann" for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+Too many commas in name 1 of "Daniela Husser, David S. Cannom, Anil K. Bhandari, Martin Stridh, Leif Sörnmo, S. Bertil Olsson, Andreas Bollmann" for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+Too many commas in name 1 of "Daniela Husser, David S. Cannom, Anil K. Bhandari, Martin Stridh, Leif Sörnmo, S. Bertil Olsson, Andreas Bollmann" for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+Too many commas in name 1 of "Daniela Husser, David S. Cannom, Anil K. Bhandari, Martin Stridh, Leif Sörnmo, S. Bertil Olsson, Andreas Bollmann" for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+Too many commas in name 1 of "Daniela Husser, David S. Cannom, Anil K. Bhandari, Martin Stridh, Leif Sörnmo, S. Bertil Olsson, Andreas Bollmann" for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+Too many commas in name 1 of "Daniela Husser, David S. Cannom, Anil K. Bhandari, Martin Stridh, Leif Sörnmo, S. Bertil Olsson, Andreas Bollmann" for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+Too many commas in name 1 of "Daniela Husser, David S. Cannom, Anil K. Bhandari, Martin Stridh, Leif Sörnmo, S. Bertil Olsson, Andreas Bollmann" for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+Too many commas in name 1 of "Daniela Husser, David S. Cannom, Anil K. Bhandari, Martin Stridh, Leif Sörnmo, S. Bertil Olsson, Andreas Bollmann" for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+Too many commas in name 1 of "Daniela Husser, David S. Cannom, Anil K. Bhandari, Martin Stridh, Leif Sörnmo, S. Bertil Olsson, Andreas Bollmann" for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+"J. High Energy Phys." is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+"J. High Energ. Phys." is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+"JHEP" is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+"Journal of Cosmology and Astroparticle Physics" is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+"J. Cosmol. Astropart. Phys." is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+"JCAP" is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+"Journal of Instrumentation" is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+"J. Instrum." is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+"JINST" is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+"Journal of Statistical Mechanics" is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+"J. of Stat. Mech." is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+"J. Stat. Mech.: Theory Exp." is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+"JSTAT" is a string literal, `journal' is a missing field
+---they aren't the same literal types for entry Husser
+while executing---line 3516 of file apsrev4-2.bst
+Warning--missing journal in Husser
+Warning--empty year in Husser
+Warning--empty year in UptoDate
+Warning--empty year in Yu
+Warning--empty year in tsinghua
+You've used 13 entries,
+            6079 wiz_defined-function locations,
+            1689 strings with 16654 characters,
+and the built_in function-call counts, 7500 in all, are:
+= -- 535
+> -- 120
+< -- 55
++ -- 55
+- -- 44
+* -- 1003
+:= -- 869
+add.period$ -- 11
+call.type$ -- 13
+change.case$ -- 53
+chr.to.int$ -- 22
+cite$ -- 19
+duplicate$ -- 764
+empty$ -- 506
+format.name$ -- 63
+if$ -- 1353
+int.to.chr$ -- 2
+int.to.str$ -- 20
+missing$ -- 91
+newline$ -- 86
+num.names$ -- 33
+pop$ -- 356
+preamble$ -- 2
+purify$ -- 50
+quote$ -- 0
+skip$ -- 289
+stack$ -- 0
+substring$ -- 150
+swap$ -- 602
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 10
+type$ -- 145
+warning$ -- 7
+while$ -- 33
+width$ -- 0
+write$ -- 131
+(There were 39 error messages)
